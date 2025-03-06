@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@import "../node_modules/preline/variants.css";
+
+/* Reset some default browser styles */
